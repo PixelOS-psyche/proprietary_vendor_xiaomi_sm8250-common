@@ -135,6 +135,7 @@ android_app_import {
 		enabled: false,
 	},
 	privileged: true,
+    overrides: ["MusicFX", "AudioFX"],
 	system_ext_specific: true,
 }
 
@@ -147,6 +148,7 @@ android_app_import {
 		enabled: false,
 	},
 	privileged: true,
+    overrides: ["MusicFX", "AudioFX"],
 	system_ext_specific: true,
 }
 
